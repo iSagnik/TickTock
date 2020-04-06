@@ -12,4 +12,4 @@ The game is inspired from a game I came across called 'The Button'
 The game is not under any license and is free ot be used/reproduced in an y way seemed reasonable. I will not be liable for any legal/moral
 implications of the use of this project or reproduction in any context beyond the scope of CSC 281 at NC State University.
 
-Run the game on chrome. All the assets are included in the zip however it's hosted through a public github repo for access from anywhere.
+Run the game on chrome. All the assets are included in the zip however it's hosted through a public github repo for access from anywhere. The assets are hosted on a Google Drive account.
